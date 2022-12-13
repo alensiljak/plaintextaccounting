@@ -687,6 +687,7 @@ other console/curses tools
 \
 **Mail lists**
 <span style="white-space:nowrap;">[app-specific mail lists](#plain-text-accounting-apps)</span>
+[ledger-cli](https://groups.google.com/g/ledger-cli)
 \
 **Twitter**
 [#plaintextaccounting](https://twitter.com/hashtag/plaintextaccounting?f=live),
